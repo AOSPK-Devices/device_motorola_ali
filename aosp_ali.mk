@@ -18,7 +18,7 @@ $(call inherit-product, device/motorola/ali/device.mk)
 
 # Inherit some common Pixel Experience stuff.
 $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
-
+CUSTOM_MAINTAINER := "jeangraff30"
 ## Device identifier. This must come after all inclusions
 PRODUCT_BRAND := motorola
 PRODUCT_MANUFACTURER := motorola
