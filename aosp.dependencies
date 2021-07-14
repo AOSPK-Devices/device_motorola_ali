@@ -4,7 +4,9 @@
     "target_path": "device/motorola/msm8953-common"
   },
   {
+    "remote": "blobs",
     "repository": "vendor_motorola_ali",
-    "target_path": "vendor/motorola/ali"
+    "target_path": "vendor/motorola/ali",
+    "branch": "eleven"
   }
 ]
